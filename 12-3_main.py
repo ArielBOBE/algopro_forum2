@@ -1,7 +1,7 @@
 import sys
 import pygame
 
-from rocket import Rocket
+from 12-3_rocket import Rocket
 
 # Make a game that begins with a rocket in the center of the
 # screen. Allow the player to move the rocket up, down, left, or right using the
